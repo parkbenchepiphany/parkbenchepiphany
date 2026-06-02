@@ -17,7 +17,7 @@ I’m interested in AI systems that can work over long-running projects without 
 ## Featured work
 
 - [New Ocean Agent OS](https://github.com/parkbenchepiphany/new-ocean-agent-os): a compact framework for multi-agent knowledge governance with lane discipline and audit logging.
-- Agent Approval Gateway: a reference implementation for approval-gated automation.
+- [Agent Approval Gateway](https://github.com/parkbenchepiphany/agent-approval-gateway): a reference implementation for approval-gated automation.
 - Obsidian Agent Memory Kit: templates for agent charters, summaries, decisions, and write lanes.
 - GitHub Portfolio Agent: a repository monitor and proposal queue for portfolio workflows.
 
