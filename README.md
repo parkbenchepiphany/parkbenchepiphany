@@ -1,26 +1,25 @@
-# Hi, I am Theo
+# Theo Egginton
 
-I build practical AI operating systems: agent workflows, shared knowledge bases, approval gates, and automation patterns that keep humans in control.
+I build practical AI systems for knowledge work, automation, and operational decision-making.
 
-## Current portfolio focus
+## Focus areas
 
-- Multi-agent knowledge systems with clear write lanes
-- Approval-gated automation for consequential actions
-- Obsidian-style memory and decision systems
-- Low-noise monitoring agents and digest workflows
-- Human-readable governance for AI-assisted work
+- Multi-agent workflows
+- Shared knowledge bases
+- Approval-gated automation
+- Monitoring and digest systems
+- Human-readable AI governance
 
-## Featured projects
+## Featured work
 
-- [New Ocean Agent OS](https://github.com/parkbenchepiphany/new-ocean-agent-os): multi-agent knowledge governance with lane discipline and audit logging.
-- Agent Approval Gateway: approval-gated automation reference, currently private while under review.
-- Obsidian Agent Memory Kit: reusable templates for agent charters, summaries, decisions, and write lanes, currently private while under review.
-- GitHub Portfolio Agent: sanitized repository monitor and proposal queue, currently private while under review.
+- [New Ocean Agent OS](https://github.com/parkbenchepiphany/new-ocean-agent-os): a compact framework for multi-agent knowledge governance with lane discipline and audit logging.
+- Agent Approval Gateway: a reference implementation for approval-gated automation.
+- Obsidian Agent Memory Kit: templates for agent charters, summaries, decisions, and write lanes.
+- GitHub Portfolio Agent: a repository monitor and proposal queue for portfolio workflows.
 
 ## Design principles
 
-- Keep durable knowledge readable by humans.
-- Make boundaries explicit before adding autonomy.
-- Record allowed actions and refusals.
-- Default private, then publish only after review.
-- Use AI to extend judgement, not replace accountability.
+- Keep knowledge readable.
+- Make permissions explicit.
+- Log decisions and refusals.
+- Keep consequential actions approval-gated.
